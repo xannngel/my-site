@@ -65,6 +65,3 @@ docker run -d --name my-site-container -p 8081:80 my-site
 docker ps
 docker stop my-site-container
 docker rm my-site-container
-
-![alt-фотка](112.jpg)
-

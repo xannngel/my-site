@@ -65,3 +65,6 @@ docker run -d --name my-site-container -p 8081:80 my-site
 docker ps
 docker stop my-site-container
 docker rm my-site-container
+
+<img width="1197" height="639" alt="image" src="https://github.com/user-attachments/assets/1f915fe8-4e91-4397-8031-b47ed0a2cb86" />
+

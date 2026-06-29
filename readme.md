@@ -67,3 +67,4 @@ docker stop my-site-container
 docker rm my-site-container
 
 ![alt-фотка](112.jpg)
+

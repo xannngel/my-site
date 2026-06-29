@@ -1,3 +1,5 @@
+```<img width="1197" height="639" alt="photo" src="https://github.com/user-attachments/assets/62972c89-b46a-4186-b145-f6150be2ec8c" />
+
 # Практическая работа. Docker. Создание сайта в контейнере
 
 
